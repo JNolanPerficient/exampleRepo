@@ -1,2 +1,7 @@
 This is our first file change
 This is our second file change
+
+
+Setup to use diff.tool 
+
+This change was made locally and pushed to GitHub at the branch level
